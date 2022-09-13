@@ -8,9 +8,8 @@ This course aims to provide an introduction to data integration under the meta-a
 | Week | Assignment                            |
 |------|---------------------------------------|
 | 1    | [Sections 10.1-10.4 of this Introduction](https://training.cochrane.org/handbook/current/chapter-10); Run example on Niagara and Cedar  |
-| 2    | [Sections 10.10 of this Introduction](https://training.cochrane.org/handbook/current/chapter-10); [DerSimonian and Laird]
-(https://pubmed.ncbi.nlm.nih.gov/3802833/) (1986); Run First Simulation Study    |
-| 3   |  [Michael et al] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045874/) (2019); Simulation Study|
+| 2    | [Sections 10.10 of this Introduction](https://training.cochrane.org/handbook/current/chapter-10); [DerSimonian and Laird](https://pubmed.ncbi.nlm.nih.gov/3802833/) (1986); Run First Simulation Study    |
+| 3   |  [Michael et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045874/) (2019); Simulation Study|
 | 4   |   [Gronsbell et al](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8396) (2020); Simulation Study                       |
 | 5 |     Update meta-analysis literature review; Simulation Study   |
 | 6   |    Update meta-analysis literature review; Simulation Study                           |
