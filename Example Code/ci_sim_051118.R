@@ -16,6 +16,7 @@ kk <- as.numeric(AI);
 # # setwd('~/Desktop/ci_code')
 # K_org = 10; alpha = 8.5; beta = 8.5;
 # base_rate = 0.006;  jj = 2; kk = 1; i = 1
+#make bb smaller (10), and numb = 2 or 1
 
 # read in functions
 source('meta_fun_052818.R')
