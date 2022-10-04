@@ -4,9 +4,6 @@
 #SBATCH --time=04:00:00
 #SBATCH --array=1-200
 #SBATCH --ntasks=1
-#SBATCH --output=Output/%x-%j.out
-#SBATCH --error=Errors/arrayJob_%A_%a.err
-#SBATCH --mail-user=nayan.saxena@mail.utoronto.ca
 #SBATCH --mail-type=BEGIN
 #SBATCH --mail-type=END
 #SBATCH --mail-type=FAIL
