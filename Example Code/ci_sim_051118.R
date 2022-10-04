@@ -139,7 +139,7 @@ for(i in ((kk-1)*numb + 1):((kk-1)*numb + numb)  ){
   ests.all = rbind(ests.all, unlist(mom.o))
   K.all = c(K.all, K)
   tot = rbind(tot, c(max(res_CI[, c('epsN_upper')]),  max(res_CI[, c('epsN_lower')])))
-  # time.all = c(time.all, ptm2[3])
+  time.all = c(time.all, ptm2[3])
 }
 
 
