@@ -18,6 +18,21 @@ kk <- as.numeric(AI);
 # base_rate = 0.006;  jj = 2; kk = 1; i = 1
 #make bb smaller (10), and numb = 2 or 1
 
+
+
+#alpha = beta = 8.5
+#base_rate = 0.006
+#balan = 2
+#all_cis = c()
+#for kk in (1:200){
+#  all_cis = rbind(all_cis, 
+#paste0(kk, 'balan-', jj, 'TIME-', K_org,  '-alpha-', alpha, '-beta-', beta,
+#               '-baseR-', base_rate, ".txt"))
+ #  }
+# theta = alpha/(alpha+beta)
+
+
+
 # read in functions
 source('meta_fun_052818.R')
 
