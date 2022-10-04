@@ -5,6 +5,7 @@
 * Questions about Bohning et. al.
 * Mathematical Fluency
 * Literature Review
+* TODO: Summarize Coverage Probabilit and Summary Stats for your 2000 simulations for setting 1a, balanced - then repeat the same process with the package, Jesse will add files for you to GitHub
 
 ## 09/27/22
 
