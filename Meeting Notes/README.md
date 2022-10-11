@@ -3,6 +3,9 @@
 ## 10/11/22
 
 * Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
+* Discuss Michael et al.
+* Discuss new code issues
+* Requirements for 15th
 
 ## 10/04/22
 
