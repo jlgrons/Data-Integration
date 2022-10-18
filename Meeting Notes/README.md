@@ -1,5 +1,12 @@
 # Meeting Notes
 
+## 10/18/22
+
+* Presentation clarification
+* scope of literature reviews
+* confirm correct settings for simulation
+* 
+
 ## 10/11/22
 
 * Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
