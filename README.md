@@ -25,7 +25,7 @@ This course aims to provide an introduction to data integration under the meta-a
 ## Resources
 
 * [Simulation Notes](https://www4.stat.ncsu.edu/~davidian/st810a/simulation_handout.pdf)
-
+* Look at google scholar who cited my meta-analysis paper + also Michael paper, pay close attention to Shan
 
 ## Marking
 
