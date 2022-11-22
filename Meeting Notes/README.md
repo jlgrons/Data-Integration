@@ -1,11 +1,33 @@
 # Meeting Notes
 
+## 11/22/22
+
+* Update real-data mistake from last week
+* Discuss new results and changes to old
+* Next steps for R package and completion of paper
+
+## 11/15/22
+
+* Real Data Results (discussion on confusing bounds of CIs)
+* Presentation Tips and Discussion
+* Discussing Cai et. al
+
+## 11/03/22
+
+* Graduate program discussion
+* Discuss and finalize simulation settings for in-paper tables
+* 
+
+## 10/25/22
+
+* Look over rough copy of final results pdf
+
 ## 10/18/22
 
 * Presentation clarification
 * scope of literature reviews
 * confirm correct settings for simulation
-* 
+* Discuss confusions on Gronsbell et. al.
 
 ## 10/11/22
 
