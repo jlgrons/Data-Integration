@@ -3,7 +3,7 @@
 ## 11/06/22
 
 * Discuss Extra Simulation Results
-* + Simulation Numbers Confusion 
+  + Simulation Numbers Confusion 
 * Fix and Discuss Real Data Results
 * Discuss Scope of last weeks
 
@@ -29,7 +29,6 @@
 
 * Graduate program discussion
 * Discuss and finalize simulation settings for in-paper tables
-* 
 
 ## 10/25/22
 
