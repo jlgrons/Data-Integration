@@ -3,10 +3,9 @@
 ## 11/06/22
 
 * Discuss Extra Simulation Results
-      * + Simulation Numbers Confusion 
+* + Simulation Numbers Confusion 
 * Fix and Discuss Real Data Results
 * Discuss Scope of last weeks
-* 
 
 ## 11/29/22
 
