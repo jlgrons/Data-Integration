@@ -1,5 +1,19 @@
 # Meeting Notes
 
+## 11/06/22
+
+* Discuss Extra Simulation Results
+      * + Simulation Numbers Confusion 
+* Fix and Discuss Real Data Results
+* Discuss Scope of last weeks
+* 
+
+## 11/29/22
+
+* Discuss Simulation results
+* Check real data analysis
+* Discuss Research Project in Winter
+
 ## 11/22/22
 
 * Update real-data mistake from last week
