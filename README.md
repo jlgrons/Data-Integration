@@ -19,7 +19,7 @@ We will continue our work on an exact inference method for meta-analysis when th
 | 10   | R package                                   |
 | 11   | Submit R package                                      |
 | 12   | Edit R package                                  |
-| 13   | ]Final report                                   |
+| 13   | Final report                                   |
 
 ## Marking (Winter 2023)
 
