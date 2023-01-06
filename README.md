@@ -1,6 +1,6 @@
 # Data-Integration
 
-## Overview
+## Overview (Fall 2022)
 
 This course aims to provide an introduction to data integration under the meta-analysis framework.  As a starting point, we will consider standard meta-analysis models.  We will then move on to some more contemporary work.  Ultimately, we will work on an exact inference method for meta-analysis when the number of available data sources is very small. You will be responsible for running simulation studies to evaluate the performance of the method and to build an R package to be submitted to CRAN. 
 
