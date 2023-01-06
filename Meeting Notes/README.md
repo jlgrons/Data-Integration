@@ -1,5 +1,8 @@
 # Meeting Notes
 
+For Winter 2023, please keep updates in this [doc](https://docs.google.com/document/d/1g7GKb2rEjPOhNAhx7naTg8kLbWbmW2_fI8hBMq1Amxk/edit?usp=sharing) and update by 10pm the night before we meet.
+
+
 ## 12/06/22
 
 * Discuss Extra Simulation Results
